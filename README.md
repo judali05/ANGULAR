@@ -1,4 +1,4 @@
-<img src="" style="width: 120px; height: 120px; margin: 2px;" align="left" >
+<img src="https://github.com/judali05/ANGULAR/blob/main/angular_logo.png" style="width: 120px; height: 120px; margin: 2px;" align="left" >
 
 <div align="center"><h1> :beginner: CURSO DE ANGULAR :beginner: </h1></div>
 
