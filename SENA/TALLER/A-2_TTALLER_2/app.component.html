@@ -1,0 +1,33 @@
+<!--TALLER 1-->
+<div>
+  <p>{{contador}}</p>
+  <button (click)="incrementar()">Sumar 1</button>
+  <button (click)="decrementar()">Restar 1</button>
+</div>
+
+@if (contador>=0) {
+  <p>Es mayor de edad.</p>
+  } @else {
+  <p>Es menor de edad.</p>
+  
+  }
+
+<!--TALLER 2-->
+<hr>
+<div>
+  <table>
+    <tr>
+      <td><input type="text" [(ngModel)]="num1"></td>
+      <td><input type="text" [(ngModel)]="num2"></td>
+    </tr>
+    <tr>
+      <td><button (click)="enviar()">Enviar</button></td>
+    </tr>
+  </table>
+</div>
+
+
+
+<router-outlet />
+
+
