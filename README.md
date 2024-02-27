@@ -9,3 +9,7 @@
 
 ***
 https://www.tutorialesprogramacionya.com/angulardevya/
+
+
+constructor= inicializar varbles recibir parametros
+
