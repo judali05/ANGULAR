@@ -13,3 +13,5 @@ https://www.tutorialesprogramacionya.com/angulardevya/
 
 constructor= inicializar varbles recibir parametros
 
+https://www.delftstack.com/es/howto/angular/get-current-date-in-angular/#google_vignette
+
